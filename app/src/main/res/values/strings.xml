@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sijempol</string>
+    <string name="username">Username</string>
+    <string name="username_hint">Masukan username / email</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+</resources>
